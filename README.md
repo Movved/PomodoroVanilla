@@ -1,1 +1,1 @@
-# PomodoroVanilla / UI not optimal yet
+# PomodoroVanilla / quick dev sess for fun UI not optimal yet
